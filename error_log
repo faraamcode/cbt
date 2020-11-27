@@ -1,0 +1,32 @@
+[17-Jun-2020 03:57:47 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home1/roemichs/public_html/entrance/index_e.php:1) in /home1/roemichs/public_html/entrance/index_e.php on line 2
+[17-Jun-2020 03:57:47 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/roemichs/public_html/entrance/index_e.php:1) in /home1/roemichs/public_html/entrance/index_e.php on line 2
+[17-Jun-2020 04:01:23 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/roemichs/public_html/entrance/exam.php on line 7
+[17-Jun-2020 04:01:23 America/Chicago] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/roemichs/public_html/entrance/exam.php on line 8
+[17-Jun-2020 04:01:23 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/roemichs/public_html/entrance/exam.php on line 11
+[17-Jun-2020 04:01:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/roemichs/public_html/entrance/exam.php on line 13
+[17-Jun-2020 04:01:23 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/roemichs/public_html/entrance/exam.php on line 101
+[17-Jun-2020 04:01:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/roemichs/public_html/entrance/exam.php on line 102
+[17-Jun-2020 04:01:23 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/roemichs/public_html/entrance/exam.php on line 101
+[17-Jun-2020 04:01:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/roemichs/public_html/entrance/exam.php on line 102
+[17-Jun-2020 04:01:23 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/roemichs/public_html/entrance/exam.php on line 101
+[17-Jun-2020 04:01:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/roemichs/public_html/entrance/exam.php on line 102
+[17-Jun-2020 04:04:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/roemichs/public_html/entrance/exam.php on line 13
+[17-Jun-2020 04:04:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/roemichs/public_html/entrance/exam.php on line 102
+[17-Jun-2020 04:04:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/roemichs/public_html/entrance/exam.php on line 102
+[17-Jun-2020 04:04:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home1/roemichs/public_html/entrance/exam.php on line 102
+[17-Jun-2020 04:34:50 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/roemichs/public_html/entrance/check.php on line 7
+[17-Jun-2020 04:34:50 America/Chicago] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/roemichs/public_html/entrance/check.php on line 8
+[17-Jun-2020 04:38:37 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/roemichs/public_html/entrance/check.php on line 7
+[17-Jun-2020 04:38:37 America/Chicago] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/roemichs/public_html/entrance/check.php on line 8
+[17-Jun-2020 04:38:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/roemichs/public_html/entrance/check.php on line 15
+[17-Jun-2020 04:38:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/roemichs/public_html/entrance/check.php on line 16
+[17-Jun-2020 04:38:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/roemichs/public_html/entrance/check.php on line 35
+[17-Jun-2020 04:38:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/roemichs/public_html/entrance/check.php:7) in /home1/roemichs/public_html/entrance/check.php on line 36
+[22-Jun-2020 10:55:38 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/roemichs/public_html/entrance/exam2.php on line 148
+[26-Jun-2020 08:48:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function bindColumn() in /home1/roemichs/public_html/entrance/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/roemichs/public_html/entrance/index.php on line 15
+[26-Jun-2020 09:17:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home1/roemichs/public_html/entrance/index.php on line 79
+[09-Jul-2020 10:43:23 America/Chicago] PHP Parse error:  syntax error, unexpected ''])){' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home1/roemichs/public_html/entrance/exam.php on line 4
+[09-Jul-2020 10:43:57 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/roemichs/public_html/entrance/exam.php on line 5
